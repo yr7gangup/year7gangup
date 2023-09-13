@@ -20,3 +20,6 @@
     font-size: 15px;
     font-family: 'Poppins', sans-serif;
 }
+.btn{
+    font-family: 'Poppins', sans-serif !important;
+}
